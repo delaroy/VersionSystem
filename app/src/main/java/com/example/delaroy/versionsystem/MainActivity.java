@@ -14,4 +14,15 @@ public class MainActivity extends AppCompatActivity {
     public void Settings(){
 
     }
+
+
+    public void Setting(){
+
+    }
+
+
+    public void WorkOn(){
+
+    }
 }
+
